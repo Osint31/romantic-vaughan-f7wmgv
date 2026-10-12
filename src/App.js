@@ -189,7 +189,7 @@ const SOURCES = [
   "Paruvendu",
   "Autre",
 ];
-const NB_ANNONCES = 300;
+const NB_ANNONCES = 0;
 
 const normaliser = (t) => t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
